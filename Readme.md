@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Давид Хачатурян](https://up.htmlacademy.ru/javascript/26/user/1826901).
-* Наставник: [ДмитрийМарков](https://htmlacademy.ru/profile/damarkov).
+* Наставник: [Дмитрий Марков](https://htmlacademy.ru/profile/damarkov).
 
 ---
 
