@@ -4,8 +4,9 @@ function getRandomNumber(min, max,maxDigits)
   {
     return ('Задан неверный диапазон! Укажите другие числа.');
   }
-  let digitsDegree = 10 ** maxDigits;
-    return ~~((Math.random() * (max - min) + min) * digitsDegree) / digitsDegree;
+  const digitsDegree = 10 ** maxDigits;
+  return ~~((Math.random() * (max - min) + min) * digitsDegree) / digitsDegree;
 }
+getRandomNumber(0, 100, 6);
 //Функцию взял с https://qna.habr.com/q/999157
 
