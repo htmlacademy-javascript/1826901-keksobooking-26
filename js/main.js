@@ -7,4 +7,5 @@ function getRandomNumber(min, max,maxDigits)
   let digitsDegree = 10 ** maxDigits;
     return ~~((Math.random() * (max - min) + min) * digitsDegree) / digitsDegree;
 }
-<!--Функцию взял с https://qna.habr.com/q/999157-->
+//Функцию взял с https://qna.habr.com/q/999157
+
